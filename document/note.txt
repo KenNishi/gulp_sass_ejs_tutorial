@@ -1,0 +1,32 @@
+
+
+<ejs>
+https://liginc.co.jp/web/html-css/html/144170
+
+<node.js>
+http://qiita.com/nextfactory/items/476c5150268e2c7db4ec
+
+<sassのインストール>
+sudo gem install -n /usr/local/bin/ sass
+sudo gem install -n /usr/local/bin/ compass
+compass create --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "img"
+
+<preprosでsassのコンパイル>
+https://prepros.io/
+
+<koala>
+http://koala-app.com/
+
+<gulp>
+https://liginc.co.jp/web/tutorial/117900
+
+npm init
+npm install gulp -g
+npm install gulp --save-dev
+npm install gulp-sass --save-dev
+
+https://liginc.co.jp/web/tutorial/117900
+https://www.npmjs.com/package/gulp-sass
+
+<スタイルガイドジェネレーター>
+npm install sc5-styleguide --save
